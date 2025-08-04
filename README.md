@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<p>As imagens dos testes que foram feitos se encontram na pasta img do repositorio</p>
+<p>As imagens dos testes que foram feitos se encontram na pasta /images do repositorio</p>
 
 <H3>Fontes</H3>
 <hr>
